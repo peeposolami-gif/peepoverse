@@ -56,8 +56,8 @@ Peepo cute. Peepo rich. Peepo happy.
 ---
 
 ## Supply and Tokenomics
-- Fixed total supply: 999,996,065  
-- Max supply: 999,996,065  
+- Fixed total supply: 999.99M  
+- Max supply: 999.99M
 - Minting: no additional minting planned or intended  
 - Inflation: none  
 - Burn mechanism: none  
