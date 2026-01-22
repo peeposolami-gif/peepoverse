@@ -1,3 +1,15 @@
+<!-- Banner -->
+<p align="center">
+  <img src="./banner.png" alt="Peepo Banner" />
+</p>
+
+<!-- Logo -->
+<p align="center">
+  <img src="./logo.png" alt="Peepo Logo" width="260"/>
+</p>
+
+
+
 # 🐸 The Official Peepo Coin ($PEEPO)
 
 ## Summary
